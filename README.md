@@ -18,6 +18,9 @@ npm install --save-dev boilerplate
 
 ## Usage
 
+Are you new to codechecks? Check out
+[getting started guide (it's simple)](https://github.com/codechecks/docs/blob/master/getting-started.md)!
+
 Add to your `codechecks.yml` file:
 
 ```yml
